@@ -1,0 +1,32 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "Wl0jaHkgNrvjGGr21oPnN"
+uri = "file://artifacts/sl-studio/public/hero-bg.png"
+type = "image"
+title = "Cinematic film set hero"
+
+[[generated]]
+id = "SKlwpWIuiG5LoiS_w_myI"
+uri = "file://artifacts/sl-studio/public/portfolio-doc.png"
+type = "image"
+title = "Impact documentary still"
+
+[[generated]]
+id = "RkQXt4oLMUlgag-CCBlM9"
+uri = "file://artifacts/sl-studio/public/portfolio-motion.png"
+type = "image"
+title = "Abstract motion design"
+
+[[generated]]
+id = "Co7yiXBXltRpPrHIDmn7v"
+uri = "file://artifacts/sl-studio/public/portfolio-tvc.png"
+type = "image"
+title = "TV Commercial still"
+
+[[generated]]
+id = "nmv5tLrRHvmqV_6l6unO2"
+uri = "file://artifacts/sl-studio/public/portfolio-photo.png"
+type = "image"
+title = "Photography portfolio"
