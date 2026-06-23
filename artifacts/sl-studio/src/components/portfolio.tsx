@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ArrowUpRight } from "lucide-react";
 
-const categories = ["All", "Documentary", "Motion Design", "Photography", "Videography", "Animation", "Commercial"];
+const categories = ["All", "Documentary", "Motion Design", "Photography", "Videography", "Animation", "Commercial", "Events"];
 
 const projects = [
   {
@@ -76,6 +76,15 @@ const projects = [
     year: "2024",
     bg: "from-slate-950 to-zinc-900",
     accent: "#e07030",
+  },
+  {
+    id: 9,
+    title: "Pan-African Leaders Forum",
+    category: "Events",
+    tag: "Event Production",
+    year: "2024",
+    bg: "from-zinc-950 to-stone-800",
+    accent: "#c86520",
   },
 ];
 

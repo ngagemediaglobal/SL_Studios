@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Camera, Film, MonitorPlay, Video, Lightbulb, Hexagon, Tv } from "lucide-react";
+import { Camera, Film, MonitorPlay, Video, Sparkles, Tv, CalendarDays } from "lucide-react";
 
 const services = [
   {
@@ -23,9 +23,9 @@ const services = [
     icon: Camera,
   },
   {
-    title: "3D Animation",
-    description: "Immersive three-dimensional worlds and product visualizations.",
-    icon: Hexagon,
+    title: "Animation",
+    description: "From stylized 2D explainers to immersive 3D worlds — full-spectrum animation production.",
+    icon: Sparkles,
   },
   {
     title: "Videography",
@@ -33,9 +33,9 @@ const services = [
     icon: Video,
   },
   {
-    title: "2D Animation",
-    description: "Stylized vector animations for explainers and campaign narratives.",
-    icon: Lightbulb,
+    title: "Events",
+    description: "Full-scale event production and multi-camera live coverage with cinematic post-production.",
+    icon: CalendarDays,
   },
 ];
 
