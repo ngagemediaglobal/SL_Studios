@@ -22,7 +22,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="flex flex-col items-center gap-2 mb-6"
         >
-          <img src="/logo-dark.png" alt="SL Studio" className="h-16 md:h-20 w-auto" />
+          <img src="/logo-transparent.png" alt="SL Studio" className="h-32 md:h-48 w-auto max-w-sm md:max-w-lg" />
           <span className="text-[10px] font-bold uppercase tracking-[0.25em] text-muted-foreground/70">
             An Ngage Media Global Company
           </span>
