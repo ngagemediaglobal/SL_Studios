@@ -29,7 +29,7 @@ export default function Navbar() {
       >
         <div className="container mx-auto px-6 md:px-12 flex items-center justify-between">
           <Link href="/" className="flex items-center z-50">
-            <img src="/logo-dark.png" alt="SL Studio" className="h-10 w-auto" />
+            <img src="/logo-dark.png" alt="SL Studio" className="h-14 w-auto" />
           </Link>
 
           {/* Desktop Nav */}

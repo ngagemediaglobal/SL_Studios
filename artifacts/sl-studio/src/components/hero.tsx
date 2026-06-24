@@ -20,9 +20,11 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
+          className="flex flex-col items-center gap-2 mb-6"
         >
-          <span className="inline-block py-1 px-3 border border-primary/30 bg-primary/10 text-primary text-xs font-bold uppercase tracking-[0.2em] mb-6">
-            Ngage Media Global
+          <img src="/logo-dark.png" alt="SL Studio" className="h-16 md:h-20 w-auto" />
+          <span className="text-[10px] font-bold uppercase tracking-[0.25em] text-muted-foreground/70">
+            An Ngage Media Global Company
           </span>
         </motion.div>
 
