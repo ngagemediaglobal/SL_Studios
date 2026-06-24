@@ -33,7 +33,7 @@ export default function Hero() {
           className="text-5xl md:text-7xl lg:text-8xl font-display font-bold uppercase tracking-tighter leading-[0.9] max-w-5xl"
         >
           Where Story <br className="hidden md:block" />
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-orange-400 italic font-medium pr-2">
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-red-400 italic font-medium pr-2">
             Meets Impact
           </span>
         </motion.h1>

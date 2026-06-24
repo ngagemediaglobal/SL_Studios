@@ -41,7 +41,7 @@ export default function About() {
             <h2 className="text-sm font-bold text-primary uppercase tracking-[0.2em] mb-4">The Studio</h2>
             <h3 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold uppercase tracking-tight mb-8">
               A lineage of <br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-orange-400">Excellence</span>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-red-400">Excellence</span>
             </h3>
             
             <div className="space-y-6 text-lg text-muted-foreground font-light leading-relaxed">

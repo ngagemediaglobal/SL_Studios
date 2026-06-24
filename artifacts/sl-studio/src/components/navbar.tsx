@@ -28,10 +28,8 @@ export default function Navbar() {
         }`}
       >
         <div className="container mx-auto px-6 md:px-12 flex items-center justify-between">
-          <Link href="/" className="group flex items-center gap-2 z-50">
-            <span className="font-display font-bold text-2xl tracking-tighter uppercase text-foreground group-hover:text-primary transition-colors">
-              SL Studio
-            </span>
+          <Link href="/" className="flex items-center z-50">
+            <img src="/logo-dark.png" alt="SL Studio" className="h-10 w-auto" />
           </Link>
 
           {/* Desktop Nav */}

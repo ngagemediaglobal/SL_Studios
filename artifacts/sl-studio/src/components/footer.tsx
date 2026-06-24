@@ -14,9 +14,7 @@ export default function Footer() {
       <div className="container mx-auto px-6 md:px-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           <div>
-            <span className="font-display font-bold text-3xl tracking-tighter uppercase text-foreground block mb-4">
-              SL Studio
-            </span>
+            <img src="/logo-dark.png" alt="SL Studio" className="h-10 w-auto mb-4" />
             <p className="text-muted-foreground text-sm font-light leading-relaxed mb-6">
               The media production arm of Ngage Media Global. Where story meets impact.
             </p>
